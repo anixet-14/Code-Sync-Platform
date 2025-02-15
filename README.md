@@ -28,9 +28,6 @@ A collaborative, real-time code editor where users can seamlessly code together.
 - 🎨 Multiple themes for personalized coding experience
 - 🎨 Collaborative Drawing: Enable users to draw and sketch collaboratively in real-time
 
-## 🚀 Live Preview
-
-You can view the live preview of the project [here](https://code-sync-live.vercel.app/).
 
 ## 💻 Tech Stack
 
@@ -43,7 +40,6 @@ You can view the live preview of the project [here](https://code-sync-live.verce
 ![Socket io](https://img.shields.io/badge/Socket.io-ffffff?style=for-the-badge)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## ⚙️ Installation
 
@@ -153,27 +149,3 @@ Special thanks to:
   - [Tldraw Repository](https://github.com/tldraw/tldraw)
   - [Tldraw Documentation](https://tldraw.dev/)
 
-## ✍️ About Developer
-
-<table>
-  <tbody>
-    <tr>
-      <td align="center" valign="top">
-        <img src="https://github.com/sahilatahar.png" width="120px;" alt="Sahil Atahar"/>
-        <br />
-        <b>Sahil Atahar</b>
-      </td>
-    </tr>
-    <tr>
-        <td align="center">
-            <a href="https://github.com/sahilatahar">
-            <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-            <br/>
-            <a href="https://linkedin.com/in/sahilatahar">
-            <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-            </a>
-        </td>
-    </tr>
-  </tbody>
-</table>
